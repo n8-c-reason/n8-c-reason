@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @n8-c-reason
 - 👀 I’m interested in game devolpment, learning about different industries, how code can help people
-- 🌱 I’m currently learning c#, unity and unreal
+- 🌱 I’m currently learning c#, machine learning and futhering my python and completing my a level coding project
 - 💞️ I’m looking to collaborate on game jams possibly
 - 📫 How to reach me nate.conway.reason@gmail.com
 
